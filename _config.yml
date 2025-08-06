@@ -10,8 +10,8 @@ title                    : "Divyanshu Tak"
 description              : " "
 repository               : "DivyanshuTak/divytak.github.io"
 google_scholar_stats_use_cdn : true
-url                      : "https://divytak.github.io"
-baseurl                  : ""
+url                      : "https://divyanshutak.github.io"
+baseurl                  : "/divytak.github.io"
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -24,7 +24,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Divyanshu Tak"
-  avatar           : "images/divy_headshot.jpeg"
+  avatar           : "images/divy_headshot.png"
   bio              : "PhD Candidate at the AIM Program, Harvard Medical School and Brigham and Women's Hospital"
   location         : "Boston, Massachusetts"
   employer         :
