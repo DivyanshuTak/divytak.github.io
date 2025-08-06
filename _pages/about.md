@@ -26,7 +26,7 @@ Outside of work, I love to play soccer and follow MMA.
 
 &nbsp;
 # 📰 News
-- *2025.06*: &nbsp; The Brainage prediction model [demo](https://huggingface.co/spaces/Divytak/BrainIAC-Brainage-V0?logs=container) is live for public use! 
+- *2025.06*: &nbsp; The Brainage prediction model [demo](https://huggingface.co/spaces/Divytak/BrainIAC-Brainage-V0) is live for public use! 
 - *2025.06*: &nbsp; The Mild Cognitive Impairment risk prediction model [demo](https://huggingface.co/spaces/Divytak/BrainIAC-MildCognitiveImpairment_Classification) is live for public use! 
 - *2025.04*: &nbsp;🎉📝 Our [paper](https://ai.nejm.org/doi/full/10.1056/AIoa2400703) on predicting recurrence risk in pediatric gliomas using longitudinal deep learing was published in NEJM AI
 - *2025.01*: &nbsp; BrainIAC - A Generalized Brain MRI foundation model [preprint](https://www.medrxiv.org/content/10.1101/2024.12.02.24317992v1) is out! 
