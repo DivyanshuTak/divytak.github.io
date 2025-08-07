@@ -37,7 +37,7 @@ Outside of work, I love to play soccer and follow MMA.
 # 📝 Publications 
 
 ### BrainIAC - Generalized Vision Foundation Model for Brain MRI
-- `medRxiv` D Tak *et al.* [(https://www.medrxiv.org/content/10.1101/2024.12.02.24317992v1](https://arxiv.org/abs/2501.09001)) 
+- `under review Nature Neuroscience` D Tak *et al.* [(https://www.medrxiv.org/content/10.1101/2024.12.02.24317992v1](https://arxiv.org/abs/2501.09001)) 
 
 ### Longitudinal Risk Prediction for Pediatric Glioma with Temporal Deep Learning
 - `NEJM AI` D Tak *et al.* (https://ai.nejm.org/doi/full/10.1056/AIoa2400703) 
