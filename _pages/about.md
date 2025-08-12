@@ -26,7 +26,7 @@ Outside of work, I love to play soccer and follow MMA.
 
 &nbsp;
 # 📰 News
-- *2025.06*: &nbsp; The Brainage prediction model [demo](https://huggingface.co/spaces/Divytak/BrainIAC-Brainage-V0) is live for public use! 
+- *2025.06*: &nbsp; The BrainIAC downstream model suite (BrainAge, Dementia classification, IDH mutation prediction, Glioma segmentation) [demo](https://huggingface.co/spaces/Divytak/BrainIAC-Brainage-V0) is live for public use! 
 - *2025.06*: &nbsp; The Mild Cognitive Impairment risk prediction model [demo](https://huggingface.co/spaces/Divytak/BrainIAC-MildCognitiveImpairment_Classification) is live for public use! 
 - *2025.04*: &nbsp;🎉📝 Our [paper](https://ai.nejm.org/doi/full/10.1056/AIoa2400703) on predicting recurrence risk in pediatric gliomas using longitudinal deep learing was published in NEJM AI
 - *2025.01*: &nbsp; BrainIAC - A Generalized Brain MRI foundation model [preprint](https://www.medrxiv.org/content/10.1101/2024.12.02.24317992v1) is out! 
@@ -50,7 +50,9 @@ Outside of work, I love to play soccer and follow MMA.
 
 
 &nbsp;
-# ⚙️ Demos 
+# 🚀 Open Source & Demos 
+- Glioma Segmentation using T2 FLAIR Brain MRI [HuggingFace](https://huggingface.co/spaces/Divytak/BrainIAC-glioma-segmentation)
+- Glioma IDH mutation prediction using T1C and FLAIR Brain MRI sequences [HuggingFace](https://huggingface.co/spaces/Divytak/IDH_Classification_BrainIAC)
 - Brain age prediction using T1 weighted Brain MRI [HuggingFace](https://huggingface.co/spaces/Divytak/BrainIAC-Brainage-V0)
 - Mild Cognitive Impairment / Dementia risk prediction using T1 weighted Brain MRI [HuggingFace](https://huggingface.co/spaces/Divytak/BrainIAC-MildCognitiveImpairment_Classification)
 
