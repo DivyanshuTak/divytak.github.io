@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I'm a PhD student at the AIM lab at Harvard Medical School and Brigham and Women's Hospital focused on developing deep learning models for healthcare applications. My work includes building generalized and tumor specific Brain MRI vision foundation models, and deep-learning brain tumor prognosis tools currently being used in clinical trials.
+I'm a PhD student at the AIM lab at Harvard Medical School and Brigham and Women's Hospital focused on developing deep learning models for healthcare applications with [Benjamin Kann, MD](https://www.dana-farber.org/find-a-doctor/benjamin-h-kann) and [Dr. Hugo Aerts](https://scholar.google.com/citations?user=v7G4QvIAAAAJ&hl=en) `. My work includes building generalized and tumor specific Brain MRI vision foundation models, and deep-learning brain tumor prognosis tools currently being used in clinical trials. I am currently working with [Dr. Harry Chao](https://sites.google.com/view/wei-lun-harry-chao/home?authuser=0) and [Dr. Harry Chao](https://sites.google.com/view/wei-lun-harry-chao/home?authuser=0) 
 
 My research interests lie in computer vision, self-supervised learning, and vision-language alignment, with a focus on deployment in clinical settings. 
 
@@ -51,7 +51,7 @@ Outside of work, I love to play soccer and follow MMA.
 
 &nbsp;
 # 🚀 Open Source & Demos 
-- Glioma Segmentation using T2 FLAIR Brain MRI [HuggingFace](https://huggingface.co/spaces/Divytak/BrainIAC-glioma-segmentation)
+- Glioma Segmentation using T2 FLAIR Brain MRI [HuggingFace](https://huggingface.co/Divytak)
 - Glioma IDH mutation prediction using T1C and FLAIR Brain MRI sequences [HuggingFace](https://huggingface.co/spaces/Divytak/IDH_Classification_BrainIAC)
 - Brain age prediction using T1 weighted Brain MRI [HuggingFace](https://huggingface.co/spaces/Divytak/BrainIAC-Brainage-V0)
 - Mild Cognitive Impairment / Dementia risk prediction using T1 weighted Brain MRI [HuggingFace](https://huggingface.co/spaces/Divytak/BrainIAC-MildCognitiveImpairment_Classification)
