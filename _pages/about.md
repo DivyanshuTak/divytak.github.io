@@ -58,8 +58,8 @@ Outside of work, I love to play soccer and follow MMA.
 &nbsp;
 # 🏆 Miscellaneous 
 - Reviewer for MICCAI 2025, European Radiology, Artificial Intelligence in Medicine, AJNR, BMJ Digital Health & AI
-- Spotlight Award, Arti cial Intelligence in Medicine, Brigham and Women's Hospital
-- Minor in Entrepreneurship, Harvard Gri n GSAS Business Club
+- Spotlight Award, Artificial Intelligence in Medicine, Brigham and Women's Hospital
+- Minor in Entrepreneurship, Harvard Griffinn GSAS Business Club
 - 3rd Place, SAE AutoDrive Challenge 2, Team Buckeye AutoDrive, Ohio State
 - National Champion, ABU ROBOCON 2018, India -  Team Nirma University 
 
