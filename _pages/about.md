@@ -20,7 +20,7 @@ I'm a PhD student at the AIM lab at Harvard Medical School and Brigham and Women
 
 My research interests lie in computer vision, self-supervised learning, and vision-language alignment, with a focus on deployment in clinical settings. 
 
-Before transitioning into healthcare AI, I worked on the development of the AI perception stack for autonomous driving with [Dr. Harry Chao](https://sites.google.com/view/wei-lun-harry-chao/home?authuser=0) at The Ohio State University. 
+Before transitioning into healthcare AI, I worked on the development of the AI perception stack for autonomous driving with [Dr. Harry Chao](https://sites.google.com/view/wei-lun-harry-chao/home?authuser=0) at The Ohio State University for [SAE AutoDrive 2](https://www.sae.org/attend/student-events/autodrive-challenge-series2) Year 1. And before transitioning to Autonomous driving, I worked on the development of electrical and software stack for autonomous robots for Team India (2018) as a part of the yearly [ABU Robocon](https://aburobocon2025.mnb.mn/en) challenge. 
 
 Outside of work, I love to play soccer and follow MMA.
 
