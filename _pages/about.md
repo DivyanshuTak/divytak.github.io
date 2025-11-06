@@ -26,6 +26,7 @@ Outside of work, I love to play soccer and follow MMA.
 
 &nbsp;
 # 📰 News
+- *2025.04*: &nbsp;🎉📝 BrainIAC - A foundation model for generalized Brain MRI analysis [preprint](https://www.medrxiv.org/content/10.1101/2024.12.02.24317992v1) is accepted and in print at Nature Neuroscience
 - *2025.06*: &nbsp; The BrainIAC downstream model suite (BrainAge, Dementia classification, IDH mutation prediction, Glioma segmentation) [demo](https://huggingface.co/spaces/Divytak) is live for public use! 
 - *2025.05*: &nbsp;🎉📝 Our [Blogpost](https://mathematical-oncology.org/blog/gbm-predictions.html) on integtation of deep-learning with mechanistic filters and SINDY for GBM reccurance predicton is out on Mathematical Oncology
 - *2025.04*: &nbsp;🎉📝 Our [paper](https://ai.nejm.org/doi/full/10.1056/AIoa2400703) on predicting recurrence risk in pediatric gliomas using longitudinal deep learing was published in NEJM AI
