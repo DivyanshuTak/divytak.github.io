@@ -26,8 +26,8 @@ Outside of work, I love to play soccer and follow MMA.
 
 &nbsp;
 # 📰 News
-- *2025.11*: &nbsp;🎉📝 BrainIAC - A foundation model for generalized Brain MRI analysis [preprint](https://www.medrxiv.org/content/10.1101/2024.12.02.24317992v1) is accepted and in print at Nature Neuroscience
-- *2025.06*: &nbsp; The BrainIAC downstream model suite (BrainAge, Dementia classification, IDH mutation prediction, Glioma segmentation) [demo](https://huggingface.co/spaces/Divytak) is live for public use! 
+- *2026.02*: &nbsp;🚀 BrainIAC-Platform is now live for public and research use! [Try it here](https://brainiac-platform.com)
+- *2026.02*: &nbsp;🎉📝 BrainIAC - A foundation model for generalized Brain MRI analysis [paper](https://www.nature.com/articles/s41593-026-02202-6) is now published in Nature Neuroscience  
 - *2025.05*: &nbsp;🎉📝 Our [Blogpost](https://mathematical-oncology.org/blog/gbm-predictions.html) on integtation of deep-learning with mechanistic filters and SINDY for GBM reccurance predicton is out on Mathematical Oncology
 - *2025.04*: &nbsp;🎉📝 Our [paper](https://ai.nejm.org/doi/full/10.1056/AIoa2400703) on predicting recurrence risk in pediatric gliomas using longitudinal deep learing was published in NEJM AI
 - *2025.01*: &nbsp; BrainIAC - A Generalized Brain MRI foundation model [preprint](https://www.medrxiv.org/content/10.1101/2024.12.02.24317992v1) is out! 
@@ -38,7 +38,7 @@ Outside of work, I love to play soccer and follow MMA.
 # 📝 Publications 
 
 ### BrainIAC - Generalized Vision Foundation Model for Brain MRI
-- `Nature Neuroscience` D Tak *et al.* [(https://www.medrxiv.org/content/10.1101/2024.12.02.24317992v1](https://arxiv.org/abs/2501.09001)) 
+- `Nature Neuroscience` D Tak *et al.* [(https://www.nature.com/articles/s41593-026-02202-6]) 
 
 ### Longitudinal Risk Prediction for Pediatric Glioma with Temporal Deep Learning
 - `NEJM AI` D Tak *et al.* (https://ai.nejm.org/doi/full/10.1056/AIoa2400703) 
@@ -51,11 +51,18 @@ Outside of work, I love to play soccer and follow MMA.
 
 
 &nbsp;
-# 🚀 Open Source & Demos 
-- Glioma Segmentation using T2 FLAIR Brain MRI [HuggingFace](https://huggingface.co/Divytak)
-- Glioma IDH mutation prediction using T1C and FLAIR Brain MRI sequences [HuggingFace](https://huggingface.co/spaces/Divytak/IDH_Classification_BrainIAC)
-- Brain age prediction using T1 weighted Brain MRI [HuggingFace](https://huggingface.co/spaces/Divytak/BrainIAC-Brainage-V0)
-- Mild Cognitive Impairment / Dementia risk prediction using T1 weighted Brain MRI [HuggingFace](https://huggingface.co/spaces/Divytak/BrainIAC-MildCognitiveImpairment_Classification)
+# 🚀 BrainIAC-Platform
+
+[BrainIAC-Platform](https://brainiac-platform.com) is the first an open-source hub hosting deep learning models for Brain MRI analysis. 
+
+Currently available models on the platform include:
+- BrainIAC backbone (T1, T1CE, T2, T2 FLAIR Brain MRI)
+- Time since stroke onset prediction (T1 Brain MRI)
+- Glioma segmentation (T2 FLAIR Brain MRI)
+- IDH mutation prediction (T1C & FLAIR Brain MRI)
+- Brain age prediction (T1-weighted MRI)
+- Mild Cognitive Impairment / Dementia risk prediction (T1-weighted MRI)
+
 
 &nbsp;
 # 🏆 Miscellaneous 
