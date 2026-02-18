@@ -29,8 +29,7 @@ Outside of work, I love to play soccer and follow MMA.
 - *2026.02*: &nbsp;🚀 BrainIAC-Platform is now live for public and research use! [Try it here](https://brainiac-platform.com)
 - *2026.02*: &nbsp;🎉📝 BrainIAC - A foundation model for generalized Brain MRI analysis [paper](https://www.nature.com/articles/s41593-026-02202-6) is now published in Nature Neuroscience  
 - *2025.05*: &nbsp;🎉📝 Our [Blogpost](https://mathematical-oncology.org/blog/gbm-predictions.html) on integtation of deep-learning with mechanistic filters and SINDY for GBM reccurance predicton is out on Mathematical Oncology
-- *2025.04*: &nbsp;🎉📝 Our [paper](https://ai.nejm.org/doi/full/10.1056/AIoa2400703) on predicting recurrence risk in pediatric gliomas using longitudinal deep learing was published in NEJM AI
-- *2025.01*: &nbsp; BrainIAC - A Generalized Brain MRI foundation model [preprint](https://www.medrxiv.org/content/10.1101/2024.12.02.24317992v1) is out! 
+- *2025.04*: &nbsp;🎉📝 Our [paper](https://ai.nejm.org/doi/full/10.1056/AIoa2400703) on predicting recurrence risk in pediatric gliomas using longitudinal deep learing is now  published in NEJM AI
 - *2024.03*: &nbsp;🎉📝 Our [paper](https://pubs.rsna.org/doi/full/10.1148/ryai.230333) on perdicting BRAF Mutation status for pediatric glioma using deep learning was published on the cover of Radiology AI 
 
 &nbsp;
